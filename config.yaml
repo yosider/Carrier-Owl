@@ -1,11 +1,17 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.AI OR cat:cs.LG OR cat:cs.MA OR cat:cs.NE OR cat:cs.RO'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        caregiver: 5
+        AGI: 3
+        general intelligence: 3
+        emergence: 3
+        temporal abstraction: 3
+        bio-plausible: 3
+        bottom-up: 1
+        top-down: 1
+        associative learning: 1
 
 # 通知の閾値
 score_threshold: 0
