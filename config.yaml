@@ -12,6 +12,7 @@ keywords:
         bottom-up: 1
         top-down: 1
         associative learning: 1
+        reinforcement learning: 1
 
 # 通知の閾値
 score_threshold: 0
